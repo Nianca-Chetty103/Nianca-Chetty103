@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there<br>I’m a developer who loves bringing ideas to life through code!<br>Whether it’s building a Java system, experimenting with the front-end design, or solving real-world challenges.<br>I’m always creating something new. I blend logic with creativity to make tech more user-friendly and fun - one project at a time.
+Hey there 👋<br>I’m a developer who loves bringing ideas to life through code!<br>Whether it’s building a Java system, experimenting with the front-end design, or solving real-world challenges.<br>I’m always creating something new. I blend logic with creativity to make tech more user-friendly and fun - one project at a time.
 
 
 ## 🌐 Socials:
