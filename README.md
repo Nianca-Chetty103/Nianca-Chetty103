@@ -8,7 +8,7 @@ I’m on a mission to become a well-rounded software engineer so that I can buil
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nianca-up-to-something) 
 
-## My Portfolio / Gamified CV 🎞️
+## My Portfolio 
 [My Portfolio](https://nianca-chetty103.github.io/)✨
 
 ## 💻 Tech Stack:
