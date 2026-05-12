@@ -5,7 +5,7 @@ Hey there 👋<br>I’m a developer who loves bringing ideas to life through cod
 ## What I'm currently doing
 I’m on a mission to become a well-rounded software engineer so that I can build technology that makes a real difference. I’m driven by curiosity and a love for learning — whether it’s exploring new programming languages, understanding system design, or improving how I solve problems. Most Importantly currently learning as much as possible to upgrade my skills. Putting myself out of the comfort zone<br>
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nianca-up-to-something) 
 
 ## My Portfolio 
