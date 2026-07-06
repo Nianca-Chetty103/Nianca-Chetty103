@@ -1,7 +1,6 @@
 
 ## 💫 About Me
-Hey there 👋<br>I’m a developer who loves bringing ideas to life through code!<br>Whether it’s building a Java system, experimenting with the front-end design, or solving real-world challenges.<br>I’m always creating something new. I blend logic with creativity to make tech more user-friendly and fun - one project at a time.<br>
-
+Hey there 👋<br>I’m a developer who rebranding at the moment...
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nianca-up-to-something) 
