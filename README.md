@@ -55,7 +55,7 @@ A marketplace connecting local businesses with customers across South Africa.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
-🟢 **Status:** Active Development
+🟢 **Status:** Successfully Deployed
 
 <a href="https://github.com/Nianca-Chetty103/LinkingLocals">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
@@ -78,7 +78,7 @@ An AI-powered communication coach helping people become more confident speakers.
 <img src="https://img.shields.io/badge/Web_App-6366F1?style=flat-square"/>
 
 
-🟢 **Status:** Building
+🟢 **Status:** Successfully Deployed
 
 <a href="https://github.com/Nianca-Chetty103/Lumora">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
