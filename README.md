@@ -42,7 +42,7 @@ Projects I'm most proud of and currently building.
 
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x350/1E1B4B/FFFFFF?text=LinkingLocals" width="100%" />
+<img src="https://github.com/Nianca-Chetty103/LinkingLocals/blob/main/Screenshot%202026-06-02%20144921.png" width="100%" />
 
 ### 🌍 LinkingLocals
 
