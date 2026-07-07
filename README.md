@@ -65,7 +65,7 @@ A marketplace connecting local businesses with customers across South Africa.
 
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x350/312E81/FFFFFF?text=Lumora" width="100%" />
+<img src="https://github.com/Nianca-Chetty103/Lumora/blob/main/Screenshot%202026-06-26%20102350.png" width="100%"/>
 
 ### 🎤 Lumora
 
