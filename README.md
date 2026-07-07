@@ -57,7 +57,7 @@ A marketplace connecting local businesses with customers across South Africa.
 
 🟢 **Status:** Active Development
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Nianca-Chetty103/LinkingLocals">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
 </a>
 
@@ -80,7 +80,7 @@ An AI-powered communication coach helping people become more confident speakers.
 
 🟢 **Status:** Building
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Nianca-Chetty103/Lumora">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
 </a>
 
@@ -94,9 +94,9 @@ An AI-powered communication coach helping people become more confident speakers.
 
 <img src="https://placehold.co/600x350/4C1D95/FFFFFF?text=Android+App" width="100%" />
 
-### 📱 Android Projects
+### 📱 Gift App
 
-A collection of Android applications built with Java while learning mobile development.
+For people who suck at finding gifts for relatives.
 
 **Tech Stack**
 
@@ -105,7 +105,7 @@ A collection of Android applications built with Java while learning mobile devel
 
 🟣 **Status:** Growing Collection
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Nianca-Chetty103/giftApp">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge"/>
 </a>
 
